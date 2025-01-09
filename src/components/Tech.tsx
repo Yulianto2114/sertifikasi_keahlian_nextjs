@@ -9,16 +9,16 @@ export default function Tech() {
                 <div className="w-32 border-2 mb-8" />
                 <div className="flex justify-center items-center w-full flex-wrap">
                     <div className="m-4"> {/* Menambahkan margin di sekitar setiap TechCard */}
-                        <TechCard imageURL='/img/css.png' techStack="CSS" />
+                        <TechCard imageURL="/img/css.png" techStack="CSS" />
                     </div>
                     <div className="m-4">
-                        <TechCard imageURL='/img/js.png' techStack="JavaScript" />
+                        <TechCard imageURL="/img/js.png" techStack="JavaScript" />
                     </div>
                     <div className="m-4">
-                        <TechCard imageURL='/img/python.svg' techStack="Python" />
+                        <TechCard imageURL="/img/python.svg" techStack="Python" />
                     </div>
                     <div className="m-4">
-                        <TechCard imageURL='/img/HTML.png' techStack="HTML" />
+                        <TechCard imageURL="/img/HTML.png" techStack="HTML" />
                     </div>
                 </div>
             </div>

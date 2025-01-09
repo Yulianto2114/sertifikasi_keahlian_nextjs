@@ -17,8 +17,8 @@ export default function Introduction() {
             </div>
             <div className="relative w-1/2 h-full"> {/* Gambar di sebelah kanan */}
                 <Image 
-                    src={'/img/foto pp.jpg'} 
-                    alt='Yulianto'
+                    src={"/img/foto pp.jpg"} 
+                    alt="Yulianto"
                     fill={true}
                     priority={true}
                     className="rounded-3xl object-cover"
